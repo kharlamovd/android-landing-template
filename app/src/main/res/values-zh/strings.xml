@@ -1,0 +1,67 @@
+<!DOCTYPE resources [
+    <!ENTITY appname "应用程序模板">
+    <!ENTITY companyname "[医]菌株">
+    <!ENTITY priv_pol_date "2022-11-04">
+    <!ENTITY email "minemodsdownload@gmail.com">
+    ]>
+
+<resources>
+
+    <string name="app_name">&appname;</string>
+
+    <string name="about">关于应用程序</string>
+    <string name="share">分享</string>
+    
+    <string name="share_text">"一个Android应用程序的好模板"</string>
+    <string name="app_descr">"该项目是任何主题领域的单页应用程序的模板.\n
+        <b>申请表格:</b>\n
+        &#8226; 商业广告.\n
+        &#8226; 教育界.\n
+        &#8226; 任何.\n
+        "</string>
+    <string name="priv_policy">私隐政策</string>
+
+    <string name="privacy_policy_text">
+        "<b>私隐政策</b>\n\n
+        该公司&companyname;创建的应用程序&appname;作为一个免费的应用程序. 此服务由&companyname;公司免费提供，并供任何用户直接使用。
+如果任何人决定使用我们的应用程序，此页面用于通知访问者有关我们收集，使用和披露个人信息的政策。
+如果您选择使用我们的应用程序，您同意收集和使用与本政策有关的信息。 我们收集的个人信息用于提供和改进应用程序。 我们不会使用或与任何人分享您的信息，除非在本隐私政策中描述。
+除非本隐私政策另有规定，否则本隐私政策中使用的术语与我们的条款和条件具有相同的含义，这些条款和条件可在&appname;中获得。\n
+        <b>信息的收集和使用</b>\n
+        为了方便使用我们的应用程序，我们可能会要求您向我们提供某些个人信息。 我们要求的信息将由我们存储并按本隐私政策所述使用。
+该应用程序使用可能收集用于识别您身份的信息的第三方服务。
+链接到应用程序使用的第三方服务提供商的隐私政策\n
+        &#8226; <a href="https://www.google.com/policies/privacy/">Google Play Services</a>\n
+        &#8226; <a href="https://support.google.com/admob/answer/6128543?hl=en">AdMob</a>\n
+        &#8226; <a href="https://firebase.google.com/policies/analytics">Google Analytics для Firebase</a>\n
+        &#8226; <a href="https://firebase.google.com/support/privacy/">Firebase Crashlytics</a>\n
+        &#8226; <a href="https://www.facebook.com/about/privacy/update/printable">Facebook</a>\n
+        <b>数据资料</b>\n
+    我们想通知您，每当您使用我们的应用程序时，如果应用程序出现错误，我们会在您的手机上收集数据和信息（通过第三方产品）。 此日志数据可能包括您的设备的IP地址，设备名称，操作系统版本，使用我们的服务时的应用程序配置，您使用服务的时间和日期等信息，以及其他统计数据。\n
+        <b>Cookies</b>\n
+        Cookie是包含少量数据的文件，通常用作匿名唯一标识符。 它们从您访问的网站发送到您的浏览器，并存储在您设备的内部存储器中。
+此服务不会明确使用这些"cookie"。 但是，应用程序可能会使用使用cookie的第三方代码和库来收集信息并改进其服务。 您可以选择接受或拒绝这些cookie，并了解cookie何时发送到您的设备。 如果您决定退出我们的cookie，您可能无法使用此服务的某些部分。\n
+        <b>服务供应商</b>\n
+        我们可以聘请第三方公司和个人，原因如下：\n
+        &#8226; 方便我们的服务;\n
+        &#8226; 代表我们提供服务;\n
+        &#8226; 提供与服务相关的服务; 或\n
+        &#8226; 帮助我们分析我们的服务是如何使用的.\n
+我们想通知本服务的用户，这些第三方可以访问您的个人信息。 原因是代表我们执行分配给他们的任务。 但是，他们有义务不披露或将这些信息用于任何其他目的。\n
+        <b>安全</b>\n
+我们重视您对我们提供您的个人信息的信任，因此我们努力使用商业上可接受的方法来保护您的个人信息。 但请记住，没有任何通过互联网传输的方法或电子存储方法是100％安全可靠的，我们无法保证其绝对安全。\n
+        <b>其他网站的链接</b>\n
+此服务可能包含指向其他网站的链接。 如果您点击第三方链接，您将被重定向到本网站。 请注意，这些外部网站不是由我们管理的。 因此，我们强烈建议您阅读这些网站的隐私政策。 我们不控制任何第三方网站或服务的内容，隐私政策或行为，也不负责。\n
+        <b>儿童隐私</b>\n
+这些服务不适用于13岁以下的人。 我们不会故意收集13岁以下儿童的个人信息。 如果我们发现13岁以下的儿童向我们提供了个人信息，我们会立即将其从我们的服务器中删除。 如果您是家长或监护人，并且您知道您的孩子向我们提供了个人信息，请与我们联系，以便我们采取必要的行动。\n
+        <b>本隐私政策的变更</b>\n
+        我们可能会不时更新我们的隐私政策。 因此，建议您定期查看此页面以了解更改。 我们将通过在此页面上发布新的隐私政策来通知您任何更改。
+此策略与&priv_pol_date;生效.\n
+        <b>联络我们</b>\n
+        如果您对我们的隐私政策有任何疑问或建议，请随时与我们联系<a href="mailto:&email;">&email;</a>.
+"
+    </string>
+    <string name="disclaimer">Disclaimer</string>
+
+
+</resources>

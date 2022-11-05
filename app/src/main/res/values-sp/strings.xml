@@ -1,0 +1,64 @@
+<!DOCTYPE resources [<!ENTITY appname "Plantilla de aplicación"><!ENTITY companyname "Mi empresa"><!ENTITY priv_pol_date "2022-11-04">
+    <!ENTITY email "minemodsdownload@gmail.com">
+    ]>
+
+<resources>
+
+    <string name="app_name">&appname;</string>
+
+    <string name="about">Acerca de la aplicación</string>
+    <string name="share">Cuota</string>
+
+    <string name="share_text">"Buena plantilla de aplicación para Android"</string>
+    <string name="app_descr">"Este proyecto es una plantilla de aplicación de una sola página para cualquier área temática.\n
+        <b>Solicitud:</b>\n
+        &#8226; Comercial.\n
+        &#8226; educativo.\n
+        &#8226; Ningún.\n
+        "</string>
+    <string name="priv_policy">Política de privacidad</string>
+
+    <string name="privacy_policy_text">
+        "<b>Política de privacidad</b>\n\n
+        &companyname; creó la aplicación &appname; como una aplicación gratuita. Este servicio es proporcionado por &companyname; Company es gratuito y está destinado a ser utilizado directamente por cualquier usuario.
+Esta página se utiliza para informar a los visitantes sobre nuestras políticas con respecto a la recopilación, el uso y la divulgación de información personal si alguien elige usar nuestra aplicación.
+Si elige utilizar nuestra aplicación, acepta la recopilación y el uso de información en relación con esta política. La información personal que recopilamos se utiliza para proporcionar y mejorar la aplicación. No usaremos ni compartiremos su información con nadie excepto como se describe en esta Política de privacidad.
+Los términos utilizados en esta Política de privacidad tienen el mismo significado que en nuestros Términos y condiciones, que están disponibles en &appname;, a menos que se defina lo contrario en esta Política de privacidad.\n
+        <b>Recopilación y uso de la información</b>\n
+        Para la conveniencia de usar nuestra aplicación, es posible que le solicitemos que nos proporcione cierta información personal. La información que solicitamos será almacenada por nosotros y utilizada como se describe en esta política de privacidad.
+La aplicación utiliza servicios de terceros que pueden recopilar información utilizada para identificarlo.
+Enlace a la política de privacidad de los proveedores de servicios de terceros utilizados por la aplicación\n
+        &#8226; <a href="https://www.google.com/policies/privacy/">Google Play Services</a>\n
+        &#8226; <a href="https://support.google.com/admob/answer/6128543?hl=en">AdMob</a>\n
+        &#8226; <a href="https://firebase.google.com/policies/analytics">Google Analytics для Firebase</a>\n
+        &#8226; <a href="https://firebase.google.com/support/privacy/">Firebase Crashlytics</a>\n
+        &#8226; <a href="https://www.facebook.com/about/privacy/update/printable">Facebook</a>\n
+        <b>Datos</b>\n
+    Queremos informarle que cada vez que utiliza nuestra aplicación, en caso de error en la aplicación, recopilamos datos e información (a través de productos de terceros) en su teléfono. Estos datos de registro pueden incluir información como la dirección IP de su dispositivo, el nombre del dispositivo, la versión del sistema operativo, la configuración de la aplicación al usar nuestro Servicio, la hora y la fecha en que usó el Servicio y otros datos estadísticos.\n
+        <b>Cookies</b>\n
+        Las cookies son archivos con una pequeña cantidad de datos que generalmente se utilizan como identificadores únicos anónimos. Se envían a su navegador desde los sitios web que visita y se almacenan en la memoria interna de su dispositivo.
+Este Servicio no utiliza estas "cookies" de forma explícita. Sin embargo, la aplicación puede utilizar código y bibliotecas de terceros que utilizan cookies para recopilar información y mejorar sus servicios. Tiene la opción de aceptar o rechazar estas cookies y saber cuándo se envía una cookie a su dispositivo. Si elige rechazar nuestras cookies, es posible que no pueda utilizar algunas partes de este Servicio.\n
+        <b>Proveedores de servicio</b>\n
+        Es posible que empleemos a empresas e individuos de terceros por los siguientes motivos:\n
+        &#8226; Para facilitar nuestro Servicio;\n
+        &#8226; Para proporcionar el Servicio en nuestro nombre;\n
+        &#8226; Para proporcionar servicios relacionados con el Servicio; o\n
+        &#8226; Para ayudarnos a analizar cómo se utiliza nuestro Servicio.\n
+Queremos informar a los usuarios de este Servicio que estos terceros tienen acceso a su Información personal. El motivo es llevar a cabo las tareas que se les asignan en nuestro nombre. Sin embargo, están obligados a no divulgar ni utilizar la información para ningún otro fin.\n
+        <b>La seguridad</b>\n
+Valoramos su confianza al proporcionarnos su información personal, por lo que nos esforzamos por utilizar medios comercialmente aceptables para protegerla. Pero recuerda que ningún método de transmisión por Internet o método de almacenamiento electrónico es 100% seguro y confiable, y no podemos garantizar su seguridad absoluta.\n
+        <b>Enlaces a otros sitios</b>\n
+Este Servicio puede contener enlaces a otros sitios web. Si hace clic en un enlace de un tercero, será redirigido a este sitio. Tenga en cuenta que estos sitios externos no son operados por nosotros. Por lo tanto, le recomendamos encarecidamente que lea la Política de privacidad de estos sitios web. No controlamos ni somos responsables del contenido, las prácticas de privacidad o las prácticas de sitios o servicios de terceros.\n
+        <b>Privacidad de los niños</b>\n
+Estos Servicios no están destinados a personas menores de 13 años. No recopilamos deliberadamente información personal de niños menores de 13 años. En caso de que descubramos que un niño menor de 13 años nos ha proporcionado información personal, la eliminamos inmediatamente de nuestros servidores. Si es padre o tutor y sabe que su hijo nos ha proporcionado información personal, comuníquese con nosotros para que podamos tomar las medidas adecuadas.\n
+        <b>Cambios a esta Política de Privacidad</b>\n
+        Es posible que actualicemos nuestra Política de privacidad de vez en cuando. Como tal, se le anima a revisar esta página periódicamente para conocer los cambios. Le notificaremos cualquier cambio publicando la nueva Política de privacidad en esta página.
+Esta política entra en vigor a partir de &priv_pol_date;.\n
+        <b>Contáctenos</b>\n
+        Si tiene alguna pregunta o sugerencia sobre nuestra Política de privacidad, no dude en contactarnos en <a href="mailto:&email;">&email;</a>.
+"
+    </string>
+    <string name="disclaimer">Disclaimer</string>
+
+
+</resources>
