@@ -10,6 +10,7 @@ import android.text.method.LinkMovementMethod;
 import android.view.MenuItem;
 import android.widget.TextView;
 
+
 public class PrivacyPolicyActivity extends AppCompatActivity {
 
     @Override
